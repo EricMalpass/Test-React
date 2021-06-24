@@ -1,5 +1,6 @@
 {
   "name": "mern",
+  "homepage": "https://github.com/EricMalpass/Test-React",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -34,6 +35,6 @@
   },
   "bugs": {
     "url": "https://github.com/EricMalpass/Test-React/issues"
-  },
-  "homepage": "https://github.com/EricMalpass/Test-React"
+  }
+  
 }
